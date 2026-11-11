@@ -1,25 +1,13 @@
 <p align="center">
-  <a href="https://github.com/akhilyad">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I%27m+Akhil+Yadav!;Controls+%26+Automation+Engineer+%E2%86%92+AI+Systems+Builder;5%2B+yrs+Industrial+DCS%2FSIL+%E2%80%A2+Shipping+Full-Stack+AI+in+Berlin&font=Fira%20Code&center=true&width=760&height=48&color=ff79c6&vCenter=true&pause=1000&size=26" alt="Typing SVG" />
-  </a>
+  <a href="https://github.com/akhilyad"><img src="https://readme-typing-svg.demolab.com/?lines=Hi+there%2C+I%27m+Akhil+Yadav!;Controls+%26+Automation+Engineer+%E2%86%92+AI+Systems+Builder;5%2B+yrs+Industrial+DCS%2FSIL+%E2%80%A2+Shipping+Full-Stack+AI+in+Berlin&font=Fira%20Code&center=true&width=900&height=48&color=ff79c6&vCenter=true&pause=1000&size=21" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akhilyad">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-191622?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://akhilyad.github.io/career-portfolio/">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-191622?style=for-the-badge&logo=globe&logoColor=e8df7a" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="https://contra.com/akhilyad/work">
-    <img src="https://custom-icon-badges.demolab.com/badge/Contra-191622?style=for-the-badge&logo=zap&logoColor=ff79c6" alt="Contra" />
-  </a>&nbsp;
-  <a href="mailto:akhil20698@gmail.com">
-    <img src="https://img.shields.io/badge/Email-191622?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>&nbsp;
-  <a href="https://github.com/akhilyad">
-    <img src="https://img.shields.io/badge/GitHub-191622?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
-  </a>
+  <a href="https://linkedin.com/in/akhilyad"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-191622?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://akhilyad.github.io/career-portfolio/"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-191622?style=for-the-badge&logo=globe&logoColor=e8df7a" alt="Portfolio" /></a>&nbsp;
+  <a href="https://contra.com/akhilyad/work"><img src="https://custom-icon-badges.demolab.com/badge/Contra-191622?style=for-the-badge&logo=zap&logoColor=ff79c6" alt="Contra" /></a>&nbsp;
+  <a href="mailto:akhil20698@gmail.com"><img src="https://img.shields.io/badge/Email-191622?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>&nbsp;
+  <a href="https://github.com/akhilyad"><img src="https://img.shields.io/badge/GitHub-191622?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:191622,50:ff79c6,100:e8df7a&height=3" width="100%" alt="Divider" />
@@ -163,3 +151,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:191622,35:6c4c9c,70:ff79c6,100:e8df7a&height=110&section=footer" width="100%" alt="Footer Wave" />
+
